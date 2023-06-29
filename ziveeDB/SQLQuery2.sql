@@ -1,0 +1,1 @@
+﻿INSERT INTO Students (Name, Surname, Birthday) VALUES (N'Максим', N'Понамарев', '04/07/1990')
